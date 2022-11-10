@@ -19,7 +19,7 @@
   ],
   "tokenizer": [
     "transformers",
-    "CLIPTokenizer"
+    "CLIPTokenizerFast"
   ],
   "unet": [
     "diffusers",
