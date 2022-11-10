@@ -10,12 +10,12 @@ language: ko
 
 # my-korean-stable-diffusion-v1-5
 
-It's [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) model, just text encoder and tokenizer replaced with my [Bingsu/clip-vit-large-patch14-ko](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko).
+It's [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) model, just text encoder and tokenizer are replaced with my [Bingsu/clip-vit-large-patch14-ko](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko).
 
 # Usage
 
 ```sh
-pip install transformers accelerate>=0.14.0 diffusers>=0.7.0 ftfy
+pip install transformers accelerate>=0.14.0 diffusers>=0.7.2
 ```
 
 ```python
