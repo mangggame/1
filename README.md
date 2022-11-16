@@ -4,7 +4,7 @@ tags:
 - stable-diffusion
 - stable-diffusion-diffusers
 - text-to-image
-inference: false
+inference: true
 language: ko
 ---
 
