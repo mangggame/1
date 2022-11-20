@@ -12,6 +12,11 @@ language: ko
 
 It's [runwayml/stable-diffusion-v1-5](https://huggingface.co/runwayml/stable-diffusion-v1-5) model, just text encoder and tokenizer are replaced with my [Bingsu/clip-vit-large-patch14-ko](https://huggingface.co/Bingsu/clip-vit-large-patch14-ko).
 
+If you are looking for a Korean diffusion model that works well in practice, see:
+
+- [BAAI/AltDiffusion-m9](https://huggingface.co/BAAI/AltDiffusion-m9)
+- [Multilingual Stable Diffusion Pipeline](https://github.com/huggingface/diffusers/tree/main/examples/community#multilingual-stable-diffusion-pipeline)
+
 # Usage
 
 ```sh
